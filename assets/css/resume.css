@@ -6,6 +6,19 @@
 .NYT, .Yelp{
   width: 65%;
 }
+.book-me-btn {
+  padding: 1%;
+  border-radius: 11px;
+  background-color: #495057;
+  color: white;
+  margin-bottom: 36px;
+  margin-top: 12px;
+}
+
+.book-me-btn a {
+  color: white;
+  text-decoration-line: none;
+}
 
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
